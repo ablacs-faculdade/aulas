@@ -11,6 +11,9 @@ int main (){
     printf("%s %i %.2f\n", "Caderno",1,10.0);
     printf("--------------------\n");
     printf("Total ......:  22.50\n");
+
+    printf("%-15s %03i %6.2f \n", "Lápis", 2,5.0);
+    printf("%-15s %03i %6.2f \n", "Caderno", 1,100.0);
     return 0;
 
 }
