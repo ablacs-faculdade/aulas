@@ -1,3 +1,5 @@
 #include<locale.h>
 setlocale(LC_ALL,"");
 canto inferior direito trocar para uft-8
+gcc nome_do_arquivo -lm -o nome_do_arquivo_gerado (geralmente a.out por causa de restrições de permissão no pc do IESB)
+./nome_do_arquivo_gerado
